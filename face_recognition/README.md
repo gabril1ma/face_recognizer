@@ -2,15 +2,15 @@
 
 ## First of all:
 
-you need to change the roots of the folders on line 9, 15 of the faces_train.py file AND line 7, 19 of the facerecognition.py file
+you need to change the roots of the folders on line _9_, _15_ of the __faces_train.py__ file __AND__ line _7_, _19_ of the __facerecognition.py__ file
 
 ## Second:
-you need to run the faces_train.py so it trains the program to recognize the faces at the "jogadores" folder 
+you need to run the __faces_train.py__ so it trains the program to recognize the faces at the _jogadores_ folder 
 
 after this it will create for you the files with the code for the analized images
 
 ## Finally 
-its just select the image you want to test at line 19 of the facerecognition.py and run the program 
+its just select the image you want to test at line _19_ of the __facerecognition.py__ and run the program 
 
 
-** I had to reduce the number of images that were originally in the jogadores folder because github doesnt accept more than 100 archives ** 
+** I had to reduce the number of images that were originally in the _jogadores_ folder because github doesnt accept more than 100 archives ** 
